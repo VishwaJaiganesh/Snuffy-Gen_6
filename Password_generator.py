@@ -1,6 +1,4 @@
-import random
 import string
-import argparse
 import logging
 
 # Set up logging
